@@ -1,0 +1,8 @@
+Korisnicko ime za prijavu: admin
+Lozinka: 12345
+
+ili
+
+Korisnicko ime za prijavu: mmilink
+Lozinka: 123456
+
